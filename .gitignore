@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Production builds
+dist/
+build/
+
+# Environment variables
+.env*.local
+.env*.backup
+.env.local
+.env.defaults
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Temporary files
+tmp/
+temp/
+
+# Vite
+.vite/
+
+# npm debug log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
