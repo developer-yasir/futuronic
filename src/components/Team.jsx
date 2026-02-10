@@ -5,11 +5,11 @@ import { useSelector } from 'react-redux';
 
 const teamMembers = [
     {
-        name: 'Sarah Chen',
+        name: 'Yasir Raees',
         role: 'CEO & Founder',
         bio: 'Ex-Google AI Research Lead with 15 years of experience in deep learning.',
         image: 'https://placehold.co/400x400/030712/06b6d4?text=Sarah',
-        socials: { twitter: '#', linkedin: '#', github: '#' },
+        socials: { linkedin: 'https://www.linkedin.com/in/developer-yasir', github: 'https://github.com/developer-yasir' },
         gradient: "from-cyan-500 to-blue-500"
     },
     {
